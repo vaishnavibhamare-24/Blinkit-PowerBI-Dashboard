@@ -1,47 +1,62 @@
-# Blinkit Sales Analysis – Power BI Dashboard
+🛒 Blinkit Sales Analysis – Power BI Dashboard
 
-## 📌 Project Overview
-This project presents a Power BI dashboard analyzing Blinkit (India's Last Minute App) grocery sales data.  
-The dashboard highlights key performance indicators (KPIs) and provides insights into **sales, ratings, outlet performance, and product categories**.
+📌 Project Overview
 
-## 📊 Dashboard Preview
-![Blinkit Dashboard](<img width="713" height="405" alt="blinkit" src="https://github.com/user-attachments/assets/5044f24f-6276-471d-8d29-0f0284ab1f37" />
-)
+This project presents an interactive Power BI dashboard analyzing Blinkit (India’s Last-Minute App) grocery sales data.
+It highlights key performance indicators (KPIs) and provides actionable insights into sales trends, outlet performance, product categories, and customer ratings.
 
-## 🗂 Dataset
-- **File**: `BlinkIT Grocery Data.xlsx`  
-- **Rows**: ~8,500 items  
-- **Columns**: Outlet Type, Outlet Size, Item Type, Item Fat Content, Sales, Ratings, Year of Establishment, etc.  
+📊 Dashboard Preview
 
-## 🔑 Key Features
-- KPI cards: **Total Sales, Average Sales, Number of Items, Average Rating**  
-- Outlet Establishment trend (2010–2022)  
-- Sales by **Outlet Size & Location**  
-- Item Fat Content breakdown (Low Fat vs Regular)  
-- Comparison of Outlet Types (Supermarkets & Grocery Stores)  
-- Drill-down filters for interactive analysis  
+<img width="1124" height="654" alt="image" src="https://github.com/user-attachments/assets/84e2dd63-bdd2-4738-bdb3-9f9eef4a6b9d" />
 
-## 🛠 Tools Used
-- Power BI Desktop  
-- Excel (data source & preprocessing)
 
-## 🚀 How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/vaishnavibhamare-24/blinkit-powerbi-dashboard.git 
-2. Open Blinkit project.pbix in Power BI Desktop.
-3. Use filters/slicers to explore different outlets, item types, and sales patterns.
+🗂 Dataset Details
 
-## 📈 Insights
+File: BlinkIT Grocery Data.xlsx
+Records: ~8,500 items
+Key Columns:
+Outlet Type | Outlet Size | Item Type | Item Fat Content | Sales | Ratings | Year of Establishment
 
-Tier 3 outlets generated the highest sales (₹472K+).
+🔑 Key Features
 
-Supermarket Type 1 had the largest total sales but lower average sales per item.
+KPI Cards: Total Sales, Average Sales, Item Count, Average Rating
 
-Products with regular fat content dominated sales performance.
+Outlet Establishment Trend (2010–2022)
 
-Peak sales were observed in 2018, followed by a decline in subsequent years.
+Sales Analysis by Outlet Size & Location Type
 
-## 📌 Author
+Fat Content Breakdown (Low Fat vs Regular)
 
-👩‍💻 Vaishnavi Bhamare
+Comparison of Supermarket vs Grocery Store performance
+
+Drill-down filters and interactive slicers for detailed exploration
+
+🛠 Tools & Technologies
+
+Power BI Desktop – dashboard design & DAX-based calculations
+
+Excel – preprocessing, cleaning, and data modeling
+
+🚀 How to Use
+git clone https://github.com/vaishnavibhamare-24/blinkit-powerbi-dashboard.git
+
+Open Blinkit_Project.pbix in Power BI Desktop.
+
+Use slicers/filters to explore outlets, item types, and sales performance.
+
+📈 Key Insights
+
+Tier 3 outlets generated the highest total sales (~₹472K+).
+
+Supermarket Type 1 achieved the highest overall sales but lower average sales per item.
+
+Regular-fat products dominated sales performance.
+
+2018 marked the sales peak, followed by a gradual decline.
+
+👩‍💻 Author
+
+Vaishnavi Bhamare
+
+
+📊 Passionate about Data Visualization, Power BI, and Business Analytics
