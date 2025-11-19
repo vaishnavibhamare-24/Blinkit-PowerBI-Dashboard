@@ -57,6 +57,7 @@ Regular-fat products dominated sales performance.
 👩‍💻 Author
 
 Vaishnavi Bhamare
+Master's in Advanced Data Analytics
 
 
 📊 Passionate about Data Visualization, Power BI, and Business Analytics
